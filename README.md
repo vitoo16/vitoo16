@@ -12,7 +12,7 @@
 
 </div>
 
-[![Bookmark Style Card](https://svg.bookmark.style/api?url=https://github.com/vitoo16/TMT-Shoes-Ecommerce-Website)](https://github.com/vitoo16/TMT-Shoes-Ecommerce-Website)
+
 
 ---
 
