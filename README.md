@@ -63,7 +63,7 @@
   <img src="https://raw.githubusercontent.com/vitoo16/IMAGESFAKEDATA/refs/heads/main/cooltext474500062784904.png"/>
 <p>
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=vitoo16&margin-w=15&margin-h=15&theme=gruvbox" alt="vitoo16" />
+    <img src="https://github-profile-trophy.vercel.app/?username=vitoo16&margin-w=15&margin-h=15&theme=dracula" alt="vitoo16" />
   </a>
 </p>
 <div/>
@@ -73,9 +73,9 @@
   <div align="center">
   <img src="https://raw.githubusercontent.com/vitoo16/IMAGESFAKEDATA/refs/heads/main/cooltext474500708280969.png"/>
   <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=vitoo16&show_icons=true&theme=transparent&locale=en" alt="vitoo16" />
+    <img src="https://github-readme-stats.vercel.app/api?username=vitoo16&show_icons=true&ambient_gradient&locale=en" alt="vitoo16" />
   </p>
   <p>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vitoo16&show_icons=true&locale=en&layout=compact&theme=transparent" alt="vitoo16" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vitoo16&show_icons=true&locale=en&layout=compact&ambient_gradient" alt="vitoo16" />
   </p>
 </div>
