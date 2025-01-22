@@ -1,10 +1,11 @@
-<div style="display: flex; justify-content: space-between; align-items: center;">
-  <div style="flex: 1; justify-content: align-items: center;">
-    <h1 style="color: #4caf50; font-family: 'Courier New', Courier, monospace;">Welcome to My World! 🌟</h1>
-    <h3 style="color: #4caf50; font-family: 'Courier New', Courier, monospace;">I'm Viet Thong Mac, a former FPT University Vietnamese student.</h3>
-    <h3 style="color: #4caf50; font-family: 'Courier New', Courier, monospace;">I pour my heart and soul into exploring the boundless realms of my creative world.</h3>
+<div style="text-align: center;">
+  <div>
+    <h1 style="background: linear-gradient(to right, #ff0080, #ff80bf); -webkit-background-clip: text; color: transparent; font-family: 'Courier New', Courier, monospace;">Welcome to My World! 🌟</h1>
+    <h3 style="background: linear-gradient(to right, #ff0080, #ff80bf); -webkit-background-clip: text; color: transparent; font-family: 'Courier New', Courier, monospace;">I'm Viet Thong Mac, a former FPT University Vietnamese student.</h3>
+    <h3 style="background: linear-gradient(to right, #ff0080, #ff80bf); -webkit-background-clip: text; color: transparent; font-family: 'Courier New', Courier, monospace;">I pour my heart and soul into exploring the boundless realms of my creative world.</h3>
   </div>
-  <div style="flex: 1; text-align: right;">
+
+  <div>
     <h2>🌐 Connect with Me</h2>
     <p>
       <a href="https://fb.com/vietthong.mac" target="_blank">
