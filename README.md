@@ -30,28 +30,21 @@
 ---
 <div align="center">
   <img src="https://raw.githubusercontent.com/vitoo16/IMAGESFAKEDATA/refs/heads/main/cooltext474500153975654.png"/>
-<h3>Programming Languages</h3>
 <p>
   <img src="https://img.shields.io/badge/-Java-%23007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/-C%2B%2B-%2300599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
   <img src="https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
 </p>
-
-<h3>Front-End Technologies</h3>
 <p>
   <img src="https://img.shields.io/badge/-HTML5-%23E44D27?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/-CSS3-%231572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
   <img src="https://img.shields.io/badge/-TailwindCSS-%2306B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS" />
   <img src="https://img.shields.io/badge/-React-%2361DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
 </p>
-
-<h3>Back-End Technologies</h3>
 <p>
   <img src="https://img.shields.io/badge/-Node.js-%23339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/-Microsoft%20SQL%20Server-%23CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL Server" />
 </p>
-
-<h3>Design Tools</h3>
 <p>
   <img src="https://img.shields.io/badge/-Adobe%20Illustrator-%23FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=white" alt="Adobe Illustrator" />
   <img src="https://img.shields.io/badge/-Photoshop-%2331A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white" alt="Photoshop" />
