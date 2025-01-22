@@ -1,14 +1,14 @@
-<div align="center">
-    <img src="https://img.shields.io/badge/Welcome%20to%20My%20World!%20%F0%9F%8C%9F-pink?style=for-the-badge" />
+<div style="text-align: center;">
+  <div>
+    <img src="https://img.shields.io/badge/Welcome%20to%20My%20World!%20%F0%9F%8C%9F-pink?style=for-the-badge&logo=none&logoWidth=40&height=50" alt="Welcome to My World!" />
 
-  <h3><em>I'm Viet Thong Mac, a former FPT University Vietnamese student.</em></h3>
-  <h3><em>I pour my heart and soul into exploring the boundless realms of my creative world.</em></h3>
-</div>
+    <h3><em>I'm Viet Thong Mac, a former FPT University Vietnamese student.</em></h3>
+    <h3><em>I pour my heart and soul into exploring the boundless realms of my creative world.</em></h3>
+  </div>
 
-
-
-  <h2 align="center">🌐 Connect with Me</h2>
-<p align="center">
+  <div>
+    <h2>🌐 Connect with Me</h2>
+    <p>
       <a href="https://fb.com/vietthong.mac" target="_blank">
         <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="vietthong.mac" height="30" width="40" style="margin: 10px;" />
       </a>
@@ -16,6 +16,8 @@
         <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="vietthong.mac" height="30" width="40" style="margin: 10px;" />
       </a>
     </p>
+  </div>
+</div>
 
 ---
 
