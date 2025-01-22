@@ -1,6 +1,6 @@
 <div align="center">
   <!-- Welcome to My World image -->
-  <img src="https://cooltext.com/Render-Image?RenderID=474498581951299&LogoId=4744985819" alt="Welcome to My World! 🌟" />
+  <img src="https://r72.cooltext.com/rendered/cooltext474498581951299.png" alt="Welcome to My World! 🌟" />
 
   <!-- Additional text -->
   <h3><em>I'm Viet Thong Mac, a former FPT University Vietnamese student.</em></h3>
