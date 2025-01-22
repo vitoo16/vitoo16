@@ -73,9 +73,9 @@
   <div align="center">
   <img src="https://raw.githubusercontent.com/vitoo16/IMAGESFAKEDATA/refs/heads/main/cooltext474500708280969.png"/>
   <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=vitoo16&show_icons=true&theme=radical&locale=en" alt="vitoo16" />
+    <img src="https://github-readme-stats.vercel.app/api?username=vitoo16&show_icons=true&theme=transparent&locale=en" alt="vitoo16" />
   </p>
   <p>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vitoo16&show_icons=true&locale=en&layout=compact&theme=radical" alt="vitoo16" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vitoo16&show_icons=true&locale=en&layout=compact&theme=transparent" alt="vitoo16" />
   </p>
 </div>
