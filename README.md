@@ -2,6 +2,7 @@
   <!-- Welcome to My World image -->
   <img src="https://raw.githubusercontent.com/vitoo16/IMAGESFAKEDATA/refs/heads/main/cooltext474498581951299.png" alt="Welcome to My World! 🌟" />
   </div>
+
 ---
 
 <div align="center">
@@ -10,7 +11,7 @@
 
 </div>
 
-
+---
 
 <div align="center">
     <h2>🌐 Connect with Me</h2>
