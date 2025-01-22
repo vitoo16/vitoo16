@@ -31,16 +31,16 @@
 <div align="center">
 
   <img src="https://raw.githubusercontent.com/vitoo16/IMAGESFAKEDATA/refs/heads/main/cooltext474500062784904.png"/>
-<p align="center">
+<p>
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=vitoo16&margin-w=15&margin-h=15&theme=gruvbox" alt="vitoo16" />
   </a>
 </p>
 <div/>
 ---
-
-<h2 align="center">🛠️ Languages and Tools</h2>
-<p align="center">
+<div align="center">
+  <img src="https://raw.githubusercontent.com/vitoo16/IMAGESFAKEDATA/refs/heads/main/cooltext474500153975654.png"/>
+<p>
   <img src="https://img.shields.io/badge/-Java-%23007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/-C%2B%2B-%2300599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
   <img src="https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
@@ -54,7 +54,7 @@
   <img src="https://img.shields.io/badge/-Photoshop-%2331A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white" alt="Photoshop" />
   <img src="https://img.shields.io/badge/-Figma-%23F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
 </p>
-
+<div/>
 ---
 
 <h2 align="center">📊 GitHub Stats</h2>
