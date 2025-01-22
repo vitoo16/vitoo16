@@ -1,13 +1,11 @@
-<div style="align: center;">
-  <div>
-    <h1 style="background: linear-gradient(to right, #ff0080, #ff80bf); -webkit-background-clip: text; color: transparent; font-family: 'Courier New', Courier, monospace;">Welcome to My World! 🌟</h1>
-    <h3 style="background: linear-gradient(to right, #ff0080, #ff80bf); -webkit-background-clip: text; color: transparent; font-family: 'Courier New', Courier, monospace;">I'm Viet Thong Mac, a former FPT University Vietnamese student.</h3>
-    <h3 style="background: linear-gradient(to right, #ff0080, #ff80bf); -webkit-background-clip: text; color: transparent; font-family: 'Courier New', Courier, monospace;">I pour my heart and soul into exploring the boundless realms of my creative world.</h3>
-  </div>
 
-  <div>
-    <h2>🌐 Connect with Me</h2>
-    <p>
+  <h1 style=" align: center;background: linear-gradient(to right, #ff0080, #ff80bf); -webkit-background-clip: text; color: transparent; font-family: 'Courier New', Courier, monospace;">Welcome to My World! 🌟</h1>
+  <h3 style=" align: center;background: linear-gradient(to right, #ff0080, #ff80bf); -webkit-background-clip: text; color: transparent; font-family: 'Courier New', Courier, monospace;">I'm Viet Thong Mac, a former FPT University Vietnamese student.</h3>
+  <h3 style="align: center;background: linear-gradient(to right, #ff0080, #ff80bf); -webkit-background-clip: text; color: transparent; font-family: 'Courier New', Courier, monospace;">I pour my heart and soul into exploring the boundless realms of my creative world.</h3>
+
+
+  <h2 align="center">🌐 Connect with Me</h2>
+<p align="center">
       <a href="https://fb.com/vietthong.mac" target="_blank">
         <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="vietthong.mac" height="30" width="40" style="margin: 10px;" />
       </a>
@@ -15,8 +13,6 @@
         <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="vietthong.mac" height="30" width="40" style="margin: 10px;" />
       </a>
     </p>
-  </div>
-</div>
 
 ---
 
