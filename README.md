@@ -1,4 +1,4 @@
-<div align="center" style="background: #f7f7f7; padding: 20px; border-radius: 10px>
+<div align="center">
     <img src="https://img.shields.io/badge/Welcome%20to%20My%20World!%20%F0%9F%8C%9F-pink?style=for-the-badge" />
 
   <h3><em>I'm Viet Thong Mac, a former FPT University Vietnamese student.</em></h3>
