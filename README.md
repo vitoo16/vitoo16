@@ -2,9 +2,9 @@
   <!-- Welcome to My World image -->
   <img src="https://raw.githubusercontent.com/vitoo16/IMAGESFAKEDATA/refs/heads/main/cooltext474498581951299.png" alt="Welcome to My World! 🌟" />
 
-  <!-- Additional text -->
-  <h3><em>I'm Viet Thong Mac, a former FPT University Vietnamese student.</em></h3>
-  <h3><em>I pour my heart and soul into exploring the boundless realms of my creative world.</em></h3>
+  <img src="[https://raw.githubusercontent.com/vitoo16/IMAGESFAKEDATA/refs/heads/main/cooltext474498581951299.png](https://raw.githubusercontent.com/vitoo16/IMAGESFAKEDATA/refs/heads/main/cooltext474499077112329.png)"/>
+  <img src="https://raw.githubusercontent.com/vitoo16/IMAGESFAKEDATA/refs/heads/main/cooltext474498581951299.png"/>
+
 </div>
 
 
