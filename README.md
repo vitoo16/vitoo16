@@ -57,10 +57,11 @@
   </a>
 </p>
 <div/>
----
   
-<h2 align="center">📊 GitHub Stats</h2>
-<div align="center" style="background: #f7f7f7; padding: 20px; border-radius: 10px;">
+---
+
+  <div align="center">
+  <img src="https://raw.githubusercontent.com/vitoo16/IMAGESFAKEDATA/refs/heads/main/cooltext474500708280969.png"/>
   <p>
     <img src="https://github-readme-stats.vercel.app/api?username=vitoo16&show_icons=true&theme=radical&locale=en" alt="vitoo16" />
   </p>
