@@ -1,9 +1,12 @@
 <div align="center">
-    <img src="https://img.shields.io/badge/-Welcome_to_My_World!_🌟-ff69b4?style=plastic&logo=star" alt="Welcome to My World!" />
+  <!-- Welcome to My World image -->
+  <img src="https://cooltext.com/Render-Image?RenderID=474498581951299&LogoId=4744985819" alt="Welcome to My World! 🌟" />
 
+  <!-- Additional text -->
   <h3><em>I'm Viet Thong Mac, a former FPT University Vietnamese student.</em></h3>
   <h3><em>I pour my heart and soul into exploring the boundless realms of my creative world.</em></h3>
 </div>
+
 
 
   <div>
