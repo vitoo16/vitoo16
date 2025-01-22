@@ -1,4 +1,4 @@
-<div style="text-align: center;">
+<div style="align: center;">
   <div>
     <h1 style="background: linear-gradient(to right, #ff0080, #ff80bf); -webkit-background-clip: text; color: transparent; font-family: 'Courier New', Courier, monospace;">Welcome to My World! 🌟</h1>
     <h3 style="background: linear-gradient(to right, #ff0080, #ff80bf); -webkit-background-clip: text; color: transparent; font-family: 'Courier New', Courier, monospace;">I'm Viet Thong Mac, a former FPT University Vietnamese student.</h3>
