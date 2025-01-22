@@ -1,4 +1,5 @@
-<h1 align="center">Welcome to My GitHub Profile! 🌟</h1>
+# Welcome to My GitHub Profile! 🌟
+
 <h3 align="center">I pour my heart and soul into exploring the boundless realms of my creative world.</h3>
 
 <p align="center">
@@ -7,10 +8,10 @@
 
 ---
 
-<h2 align="center">🏆 My Achievements</h2>
+<h2 align="center">🏆 Achievements</h2>
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=vitoo16&margin-w=15&margin-h=15&theme=dracula" alt="vitoo16" />
+    <img src="https://github-profile-trophy.vercel.app/?username=vitoo16&margin-w=15&margin-h=15&theme=radical" alt="vitoo16" />
   </a>
 </p>
 
@@ -67,9 +68,12 @@
 
 ---
 
-<h2 align="center">📊 My GitHub Stats</h2>
+<h2 align="center">📊 GitHub Stats</h2>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=vitoo16&show_icons=true&theme=radical&locale=en" alt="vitoo16" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vitoo16&theme=radical" alt="vitoo16" />
 </p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vitoo16&show_icons=true&locale=en&layout=compact&theme=radical" alt="vitoo16" />
