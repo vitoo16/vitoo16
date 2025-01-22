@@ -1,7 +1,9 @@
+<div align="center">
+  <h1>Welcome to My World! 🌟</h1>
+  <h3><em>I'm Viet Thong Mac, a former FPT University Vietnamese student.</em></h3>
+  <h3><em>I pour my heart and soul into exploring the boundless realms of my creative world.</em></h3>
+</div>
 
-  <h1 style=" align: center;background: linear-gradient(to right, #ff0080, #ff80bf); -webkit-background-clip: text; color: transparent; font-family: 'Courier New', Courier, monospace;">Welcome to My World! 🌟</h1>
-  <h3 style=" align: center;background: linear-gradient(to right, #ff0080, #ff80bf); -webkit-background-clip: text; color: transparent; font-family: 'Courier New', Courier, monospace;">I'm Viet Thong Mac, a former FPT University Vietnamese student.</h3>
-  <h3 style="align: center;background: linear-gradient(to right, #ff0080, #ff80bf); -webkit-background-clip: text; color: transparent; font-family: 'Courier New', Courier, monospace;">I pour my heart and soul into exploring the boundless realms of my creative world.</h3>
 
 
   <h2 align="center">🌐 Connect with Me</h2>
