@@ -1,14 +1,18 @@
-
-<h1 align="center" style="color: #4caf50; font-family: 'Courier New', Courier, monospace;">"Welcome to My World! 🌟"</h1>
-
-
-<h3 align="center" style="color: #4caf50; font-family: 'Courier New', Courier, monospace;">"I'm Viet Thong Mac , a former FPT University Vietnamese student. "</h3>
-
-<h3 align="center" style="color: #4caf50; font-family: 'Courier New', Courier, monospace;">"I pour my heart and soul into exploring the boundless realms of my creative world."</h3>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=vitoo16&label=Profile%20views&color=brightgreen&style=plastic" alt="vitoo16" />
-</p>
+<div style="display: flex; justify-content: space-between; align-items: center;">
+  <div style="flex: 1;">
+    <h1 style="color: #4caf50; font-family: 'Courier New', Courier, monospace;">"Welcome to My World! 🌟"</h1>
+    <h3 style="color: #4caf50; font-family: 'Courier New', Courier, monospace;">"I'm Viet Thong Mac, a former FPT University Vietnamese student."</h3>
+    <h3 style="color: #4caf50; font-family: 'Courier New', Courier, monospace;">"I pour my heart and soul into exploring the boundless realms of my creative world."</h3>
+  </div>
+  <div style="flex: 1; text-align: right;">
+    <h2>🌐 Connect with Me</h2>
+    <p>
+      <a href="https://fb.com/vietthong.mac" target="_blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="vietthong.mac" height="30" width="40" style="margin: 10px;" />
+      </a>
+    </p>
+  </div>
+</div>
 
 ---
 
@@ -21,53 +25,20 @@
 
 ---
 
-<h2 align="center">🌐 Connect with Me</h2>
-<p align="center">
-  <a href="https://fb.com/vietthong.mac" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="vietthong.mac" height="30" width="40" style="margin: 10px;" />
-  </a>
-</p>
-
----
-
 <h2 align="center">🛠️ Languages and Tools</h2>
 <p align="center">
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40" style="margin: 10px;" />
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" style="margin: 10px;" />
-  </a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40" style="margin: 10px;" />
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" style="margin: 10px;" />
-  </a>
-  <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40" style="margin: 10px;" />
-  </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" style="margin: 10px;" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" style="margin: 10px;" />
-  </a>
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
-    <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40" style="margin: 10px;" />
-  </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40" style="margin: 10px;" />
-  </a>
-  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40" style="margin: 10px;" />
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" style="margin: 10px;" />
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40" style="margin: 10px;" />
-  </a>
+  <img src="https://img.shields.io/badge/-C%2B%2B-%2300599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/-Figma-%23F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma" />
+  <img src="https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/-Adobe%20Illustrator-%23FF9A00?style=flat-square&logo=adobe-illustrator&logoColor=white" alt="Adobe Illustrator" />
+  <img src="https://img.shields.io/badge/-Java-%23007396?style=flat-square&logo=java&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/-Microsoft%20SQL%20Server-%23CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white" alt="SQL Server" />
+  <img src="https://img.shields.io/badge/-Node.js-%23339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/-Photoshop-%2331A8FF?style=flat-square&logo=adobe-photoshop&logoColor=white" alt="Photoshop" />
+  <img src="https://img.shields.io/badge/-React-%2361DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/-TailwindCSS-%2306B6D4?style=flat-square&logo=tailwind-css&logoColor=white" alt="TailwindCSS" />
 </p>
 
 ---
