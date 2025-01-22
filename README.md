@@ -28,14 +28,15 @@
 </div>
 
 ---
+<div align="center">
 
-<h2 align="center">🏆 Achievements</h2>
+  <img src="https://raw.githubusercontent.com/vitoo16/IMAGESFAKEDATA/refs/heads/main/cooltext474500062784904.png"/>
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=vitoo16&margin-w=15&margin-h=15&theme=gruvbox" alt="vitoo16" />
   </a>
 </p>
-
+<div/>
 ---
 
 <h2 align="center">🛠️ Languages and Tools</h2>
