@@ -9,7 +9,7 @@
 
 
 
-  <div>
+<div align="center">
     <h2>🌐 Connect with Me</h2>
     <p>
       <a href="https://fb.com/vietthong.mac" target="_blank">
