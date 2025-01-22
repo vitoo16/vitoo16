@@ -1,10 +1,10 @@
-<div style="text-align: center;">
-  <div>
-    <img src="https://img.shields.io/badge/Welcome%20to%20My%20World!%20%F0%9F%8C%9F-pink?style=for-the-badge&logo=none&logoWidth=100&height=50" alt="Welcome to My World!" />
+<div align="center">
+  <img src="https://img.shields.io/badge/Welcome%20to%20My%20World!%20%F0%9F%8C%9F-pink?style=flat-square&logo=none&logoWidth=80" alt="Welcome to My World!" />
 
   <h3><em>I'm Viet Thong Mac, a former FPT University Vietnamese student.</em></h3>
   <h3><em>I pour my heart and soul into exploring the boundless realms of my creative world.</em></h3>
-  </div>
+</div>
+
 
   <div>
     <h2>🌐 Connect with Me</h2>
